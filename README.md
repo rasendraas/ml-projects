@@ -14,6 +14,7 @@ Here you’ll find:
 * Predictive Analysis
 * Recommendation System
 
-The main purpose of this repository is to serve as part of my **personal portfolio** and as a **reference for friends and fellow learners** who are interested in exploring machine learning techniques.
+These projects are meant for educational and demonstrative purposes only.
+Feel free to explore, learn, and adapt them for your own practice!
 
 > ⚠ **Note:** Please do not use any of these projects or code in production without careful review, as they were developed solely for learning purposes and to showcase my skills.
